@@ -8,3 +8,20 @@ The site to buy the book: [Amazon](https://www.amazon.com.br/Introducing-Go-Cale
 All codes were based on the cited book.
 
 <img src="img/IntroducingGo.jpg" width="400px">
+
+## Content
+
+Introduction
+1. Getting Started
+2. Types
+3. Variables
+4. Control Structures
+5. Arrays, Slices and Maps
+6. Functions
+7. Structs and Interfaces
+8. Packages
+9. Testing
+10. Concurrency
+11. Next Steps
+- Answers
+Index
