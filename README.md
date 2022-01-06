@@ -11,7 +11,6 @@ All codes were based on the cited book.
 
 ## Content
 
-   Introduction
 1. Getting Started
 2. Types
 3. Variables
@@ -23,6 +22,3 @@ All codes were based on the cited book.
 9. Testing
 10. Concurrency
 11. Next Steps
-- Answers
-
-   Index
