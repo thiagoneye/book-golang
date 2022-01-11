@@ -22,3 +22,7 @@ All codes were based on the cited book.
 9. Testing
 10. Concurrency
 11. Next Steps
+
+## Others
+
+See too the repository [beewcrowd-programming](https://github.com/thiagoneye/beecrowd-programming/).
