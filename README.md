@@ -25,4 +25,4 @@ All codes were based on the cited book.
 
 ## Others
 
-See also the repository [beewcrowd-programming](https://github.com/thiagoneye/beecrowd-programming/).
+See also the repository [beewcrowd-programming](https://github.com/thiagoneye/beecrowd-programming/) and [course-golang](https://github.com/thiagoneye/course-golang/).
