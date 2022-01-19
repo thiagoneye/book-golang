@@ -9,7 +9,7 @@ All codes were based on the cited book.
 
 <img src="img/IntroducingGo.jpg" width="400px">
 
-## Content
+## Contents
 
 1. Getting Started
 2. Types
